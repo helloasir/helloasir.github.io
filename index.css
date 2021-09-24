@@ -77,7 +77,7 @@ sup {
 }
 
 img {
-  display: block;
+  display: inline;
   margin-left: auto;
   margin-right: auto;
   border-style: none;
@@ -204,7 +204,7 @@ a:active {
 }
 
 .main-content a {
-   /* text-decoration: underline; */
+  text-decoration: underline;
 }
 
 /*  Navigation (Top)
@@ -219,7 +219,7 @@ a:active {
 }
 
 #toggle:checked ~ .toggle-container .button-toggle {
-  box-shadow: 0 0 0 550px rgba(0, 0, 0, 0.1), inset 0 0 0 20px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 0 550px rgba(0, 0, 225, 0.1), inset 0 0 0 20px rgba(238, 53, 53, 0.1);
 }
 #toggle:checked ~ .toggle-container .button-toggle:before {
   transform: translateY(-50%) rotate(45deg) scale(1);
