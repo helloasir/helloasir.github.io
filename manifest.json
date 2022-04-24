@@ -1,5 +1,5 @@
 {
-  "name": "App",
+  "name": "HA",
   "icons": [
     {
       "src": "images/36x36.png",
@@ -37,5 +37,7 @@
       "type": "image/png",
       "density": "4.0"
     }
-  ]
+  ],
+  "theme_color": "none",
+  "background_color": "none"
 }
