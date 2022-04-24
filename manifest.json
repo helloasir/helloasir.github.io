@@ -1,9 +1,12 @@
 {
   "name": "HA",
   "short_name": "helloasir",
-  "display": "browser",
-  "scope": "/",
+  "display": "fullscreen",
   "start_url": "/",
+  "background_color": "transparent",
+  "theme_color": "transparent",
+  "description": "helloasir, webdeveloper , tamil developer , tamil website developer , webdeveloper tamil part time , web editior , tamil seo specialist",
+  "orientation": "any",
   "icons": [
     {
       "src": "images/36x36.png",
@@ -41,7 +44,6 @@
       "type": "image/png",
       "density": "4.0"
     }
-  ],
-  "theme_color": "#2196f3",
-  "background_color": "#2196f3"
+  ]
+ 
 }
