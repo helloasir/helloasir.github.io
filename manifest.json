@@ -1,5 +1,9 @@
 {
   "name": "HA",
+  "short_name": "helloasir",
+  "display": "browser",
+  "scope": "/",
+  "start_url": "/",
   "icons": [
     {
       "src": "images/36x36.png",
@@ -38,6 +42,6 @@
       "density": "4.0"
     }
   ],
-  "theme_color": "none",
-  "background_color": "none"
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3"
 }
